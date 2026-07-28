@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Phase 1: Ultimate Animated Banner (Final) -->
+<!-- Phase 1: Ultimate Animated Banner (v7) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/dark.svg">
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/light.svg">
-  <img alt="Mohamed Ashraf" src="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/dark.svg?v=7">
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/light.svg?v=7">
+  <img alt="Mohamed Ashraf" src="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/light.svg?v=7">
 </picture>
 
   
