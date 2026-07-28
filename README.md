@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Phase 1: Ultimate Animated Banner -->
+<!-- Phase 1: Ultimate Animated Banner v4 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/dark.svg">
   <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/SuCH-CHAoS/SuCH-CHAoS/main/light.svg">
@@ -25,12 +25,6 @@
     <td width="50%"><img src="https://github-readme-stats-five-topaz-25.vercel.app/api/top-langs/?username=SuCH-CHAoS&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="top langs" /></td>
   </tr>
 </table>
-
-  
-
-
-<!-- Unique Addition: GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SuCH-CHAoS&theme=onedark&no-frame=true&column=7&margin-w=15" alt="trophies" />
 
   
 
